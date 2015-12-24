@@ -5,7 +5,7 @@
 	
 	<tiles-definitions>
 		<definition name="abner.test" template="/WEB-INF/template.jsp">
-			<put-attribute name="lb" type="template" value="hello.jsp"/>
+			<put-attribute name="lb" value="./hello.jsp"/>
 			<put-attribute name="rb" value="right body here!"/>
 		</definition>
 		
