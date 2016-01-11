@@ -4,22 +4,24 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Insert title here</title>
+<title>Trails</title>
 </head>
 <body>
+<div style="width:1500px">
 	<div id="head">
 		<h1>This is head</h1>
 	</div>
-	<div id="body">
-		<div id="left-body">
+	<div id="body" style="display:inline">
+		<div id="left-body" style="width:40%">
 			<tmp:insertAttribute name="lb" />
 		</div>
-		<div id="right-body">
+		<div id="right-body" style-"width:40%">
 			<tmp:insertAttribute name="rb" />
 		</div>
 	</div>
 	<div id="footer">
 		<h2>This is footer</h2>
 	</div>
+</div>
 </body>
 </html>

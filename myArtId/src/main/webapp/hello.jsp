@@ -5,6 +5,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is a hello2 page.
+This is a hello page.
 </body>
 </html>
