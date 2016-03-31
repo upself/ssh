@@ -31,7 +31,7 @@
 			</result>
 		</global-results>
 
-		<action name="home" class="myArtId.HelloWorldAction">
+		<action name="home" class="home">
 			<result name="success" type="tiles">abner.test</result>
 		</action>
 
