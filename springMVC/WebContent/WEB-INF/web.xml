@@ -13,7 +13,7 @@
   
   <servlet-mapping>
   	<servlet-name>springMVC</servlet-name>
-  	<url-pattern>/*</url-pattern>
+  	<url-pattern>*.do</url-pattern>
   </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
