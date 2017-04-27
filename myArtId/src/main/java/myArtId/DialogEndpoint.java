@@ -13,7 +13,7 @@ public class DialogEndpoint {
   public List<Dialog> test(){
 	  DialogService service = new DialogService();
 	  service.setUsernameAndPassword("169fec25-a483-4224-b7c1-223cb2d3616f", "mR2t7IiHZ6e2");
-	  
+	  System.out.println("nihao");
 	  return service.getDialogs();
   }
 }
